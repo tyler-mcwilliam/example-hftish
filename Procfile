@@ -1,1 +1,1 @@
- 	worker: tick_taker.py
+ 	worker: python tick_taker.py
