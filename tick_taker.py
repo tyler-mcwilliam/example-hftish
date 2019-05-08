@@ -237,7 +237,7 @@ def run(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        '--symbol', type=str, default='SNAP',
+        '--symbol', type=str, default='SPWR',
         help='Symbol you want to trade.'
     )
     parser.add_argument(
